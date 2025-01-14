@@ -17,3 +17,5 @@ php artisan serve
 ## Project Description:
 A CRUD application for store management with location-based features. Admins can manage store details, including latitude, longitude, or address. Users can view nearby stores sorted by proximity, with automatic location detection on login.
 
+Users table role 1=>Admin, 2=> user
+
